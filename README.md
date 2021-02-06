@@ -1,11 +1,14 @@
-#SIM Cloth Store
+## SIM CLOTH STORE
 
 Have a look at the site :) [SIM-LIVE](https://sim-live.herokuapp.com/).
 
+Home Page
 ![](screenshots/home.png)
 
+Shop Page
 ![](screenshots/shop.png)
 
+Loggin/Register Page
 ![](screenshots/log.png)
 
 # Getting Started with Create React App
