@@ -1,3 +1,13 @@
+#SIM Cloth Store
+
+Have a look at the site :) [SIM-LIVE](https://sim-live.herokuapp.com/).
+
+![](screenshots/home.png)
+
+![](screenshots/shop.png)
+
+![](screenshots/log.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
