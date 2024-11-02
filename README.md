@@ -1,6 +1,6 @@
 ## SIM CLOTH STORE
 
-Have a look at the site :) [SIM-LIVE](https://sim-live.herokuapp.com/).
+Have a look at the site :) [SIM-LIVE](https://clothing-aqsarfqbx-iresh96s-projects.vercel.app/).
 
 Home Page
 ![](screenshots/home.png)
