@@ -10,7 +10,9 @@
 
 # production
 /build
-
+exportedData.json
+seed.js
+clothong-app-firebase-adminsdk-jiq50-a43ae39b27.json
 .env
 # misc
 .DS_Store
