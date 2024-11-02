@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.26.0",
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.0",
+    "babel-preset-react-app": "^10.0.1",
     "firebase": "^8.2.2",
     "firebase-admin": "^12.7.0",
     "react": "^17.0.1",
